@@ -98,6 +98,9 @@ public class Main {
                 case 3:
                     deleteStudent();
                     break;
+                case 4:
+                    searchStudent();
+                    break;
 
 
             }
