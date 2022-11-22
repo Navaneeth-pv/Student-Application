@@ -101,6 +101,12 @@ public class Main {
                 case 4:
                     searchStudent();
                     break;
+                case 5:
+                    System.exit(0);
+                    break;
+                default:
+                    System.out.println("Invalid choice");
+                    break;
 
 
             }
